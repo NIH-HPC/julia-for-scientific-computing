@@ -1,3 +1,5 @@
+Pkg.add("PyPlot") 
+
 using PyPlot
 
 for i=1:5
